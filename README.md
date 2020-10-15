@@ -1,6 +1,6 @@
 # SEO Courses and Training [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This is a curated list of SEO learning resources, training and courses, etc. For contributions please check [this](https://github.com/awesome-seo-tools/local-seo/blob/master/CONTRIBUTIONS.md).
+This is a curated list of SEO learning resources, training and courses, etc. For contributions please check [this](https://github.com/Awesome-SEO/local-seo/blob/master/CONTRIBUTIONS.md).
 
 ## Courses
 
